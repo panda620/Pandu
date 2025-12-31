@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By PANDA UNIKER)
+#!/data/data/com.termux/files/usr/bin/python# Decompile by Mardis (Tools By PANDA UNIKER)
 # Time Succes decompile : 2025-07-12
 import os, time, requests, datetime, random,multiprocessing.pool, getpass, json, threading, sys, uuid, shutil, zlib, base64
 from multiprocessing.pool import ThreadPool
